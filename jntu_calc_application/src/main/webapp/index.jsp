@@ -15,7 +15,7 @@
 		<br /> <select name="operations">
 			<option value="add" selected="selected">Add</option>
 			
-			<option value="Mul">mul</option>
+			<option value="Mul">Mul</option>
 			<option value="Sub">Sub</option>
 			<option value="div">Div</option>
 		</select> <br> <input type="submit" value="Go">
